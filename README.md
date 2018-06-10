@@ -1,7 +1,7 @@
 # gitKills
 服务器更改
 
-hy commit
+hy commit hynewcommit
 dev branch
 
 fsscommit
